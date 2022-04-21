@@ -1,0 +1,13 @@
+1. Python must installed in your system
+2. unzip the the files
+3. Open CMD or open with visual studio
+4. After opening terminal type venv\Scripts\activate.bat
+	or In macos Type:- source bin/activate
+5. Then type pip install -r requirements.txt
+6. then type python manage.py migrate
+7. then type python manage.py runserver
+
+	Thats it
+
+
+Caution: This is an incomplete project. The codes in this project are just for testing purpose only!
